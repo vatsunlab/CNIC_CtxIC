@@ -1,1 +1,1 @@
-# CNIC_CtxIC
+# Supplemental data file containing ANCOVA tables for "Distinguishing neurons in the central nucleus and cortex of the inferior colliculus by multi-parametric classification of pure-tone responses" (Authors: Owoc MS, Johnson A, Kandler K, Sadagopan S). Uploaded May 12, 2022.
